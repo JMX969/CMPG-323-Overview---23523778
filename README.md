@@ -2,6 +2,8 @@
 CMPG 323 Semester project overview
 
 ## Repositories
+![RepositoryContext](https://user-images.githubusercontent.com/68903153/185161902-553d1807-bc01-4aeb-ab16-424bf7e5da7b.png)
+
 Project 1 Overview: This project serves as an overview to implement source control through git.
 The entire semester project will be split up into 5 sub-projects within an agile scrum environment.
 Each project will have it's own repository and all of them will link together into a central overview project,
@@ -23,7 +25,8 @@ operational-branch: is used to test each of the completed features of code cohes
 before merging with main. This is to ensure the integrity and stability of a functional working main.
 
 ## .gitignore Files
-???
+Currently in project 1 there are no .gitignor files being used, but for future projects the .suo file can be ignored when commiting changes to a branch.
+This will ultimately help reduce some of the merging conflicts into main, especially if there are multiple developers merging changes into the main branch.
 
 ## Storage of credentials and sensitive information
 ???
