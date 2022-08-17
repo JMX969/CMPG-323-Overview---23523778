@@ -2,7 +2,7 @@
 CMPG 323 Semester project overview
 
 ## Repositories
-![RepositoryContext](https://user-images.githubusercontent.com/68903153/185161902-553d1807-bc01-4aeb-ab16-424bf7e5da7b.png)
+![RepoOverview](https://user-images.githubusercontent.com/68903153/185241730-39007c88-da87-4e3a-9ca4-331c00e994b1.png)
 
 Project 1 Overview: This project serves as an overview to implement source control through git.
 The entire semester project will be split up into 5 sub-projects within an agile scrum environment.
