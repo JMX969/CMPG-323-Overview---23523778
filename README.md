@@ -7,10 +7,10 @@ CMPG 323 Semester project overview
 Project 1 Overview: This project serves as an overview to implement source control through git.
 The entire semester project will be split up into 5 sub-projects within an agile scrum environment.
 Each project will have it's own repository and all of them will link together into a central overview project,
-with repository: CMPG323 Overview - 23523778
+with repository: CMPG-323-Overview-23523778
 
 * Project 1 repository: CMPG-323-Overview-23523778
-*         https://github.com/JMX969/CMPG-323-Overview-23523778.git
+  * https://github.com/JMX969/CMPG-323-Overview-23523778.git
 * Project 2 repository: CMPG-323-project2-23523778
 * Project 3 repository: CMPG-323-project3-23523778
 * Project 4 repository: CMPG-323-project4-23523778
@@ -31,4 +31,4 @@ Currently in project 1 there are no .gitignor files being used, but for future p
 This will ultimately help reduce some of the merging conflicts into main, especially if there are multiple developers merging changes into the main branch.
 
 ## Storage of credentials and sensitive information
-???
+Creditials of each contributer/developer can configurated seperatedly for each development-branch used for contribution.
