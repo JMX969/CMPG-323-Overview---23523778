@@ -31,4 +31,4 @@ Currently in project 1 there are no .gitignor files being used, but for future p
 This will ultimately help reduce some of the merging conflicts into main, especially if there are multiple developers merging changes into the main branch.
 
 ## Storage of credentials and sensitive information
-Creditials of each contributer/developer can configurated seperatedly for each development-branch used for contribution.
+Creditials of each contributer/developer can be captured and configurated seperatedly for each development-branch used for contribution.
