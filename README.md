@@ -1,4 +1,4 @@
-# CMPG-323-Overview---23523778
+# CMPG-323-Overview-23523778
 CMPG 323 Semester project overview
 
 ## Repositories
@@ -9,10 +9,11 @@ The entire semester project will be split up into 5 sub-projects within an agile
 Each project will have it's own repository and all of them will link together into a central overview project,
 with repository: CMPG323 Overview - 23523778
 
-Project 2 repository: CMPG323 project 2 - 23523778
-Project 3 repository: CMPG323 project 3 - 23523778
-Project 4 repository: CMPG323 project 4 - 23523778
-Project 5 repository: CMPG323 project 5 - 23523778
+* Project 1 repository: CMPG-323-Overview-23523778
+* Project 2 repository: CMPG-323-project2-23523778
+* Project 3 repository: CMPG-323-project3-23523778
+* Project 4 repository: CMPG-323-project4-23523778
+* Project 5 repository: CMPG-323-project5-23523778
 
 ## Branching Strategies
 Project 1: Branch setup-project: This branch will be used to configurate, setup and update README.md.
