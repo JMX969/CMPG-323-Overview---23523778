@@ -10,7 +10,7 @@ Each project will have it's own repository and all of them will link together in
 with repository: CMPG323 Overview - 23523778
 
 * Project 1 repository: CMPG-323-Overview-23523778
-      * https://github.com/JMX969/CMPG-323-Overview-23523778.git
+*         * https://github.com/JMX969/CMPG-323-Overview-23523778.git
 * Project 2 repository: CMPG-323-project2-23523778
 * Project 3 repository: CMPG-323-project3-23523778
 * Project 4 repository: CMPG-323-project4-23523778
