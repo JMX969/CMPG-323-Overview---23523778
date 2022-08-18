@@ -32,3 +32,12 @@ This will ultimately help reduce some of the merging conflicts into main, especi
 
 ## Storage of credentials and sensitive information
 Creditials of each contributer/developer can be captured and configurated seperatedly for each development-branch used for contribution.
+
+## References
+* Project 1:
+ * Example of Board View: https://github.com/users/JacquiM/projects/16
+ * GitHub Repository Documentation: https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories
+ * GitHub Project Documentation: https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects
+ * Manage the Lifecycle of your projects on GitHub: https://docs.microsoft.com/en-us/learn/paths/manage-project-lifecycle-github/
+ * What is a Burndown Chart: https://www.visual-paradigm.com/scrum/scrum-burndown-chart/
+ * Introduction to Git: https://docs.microsoft.com/en-us/learn/modules/intro-to-git/
