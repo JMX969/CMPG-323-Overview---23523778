@@ -18,6 +18,7 @@ with repository: CMPG-323-Overview-23523778
 * Project 4 repository: CMPG-323-project4-23523778
   * https://github.com/JMX969/CMPG-323-project4-23523778.git
 * Project 5 repository: CMPG-323-project5-23523778
+  * https://github.com/JMX969/CMPG-323-Project5-23523778.git
 
 ## Branching Strategies
 Project 1: Branch setup-project: This branch will be used to configurate, setup and update README.md.
